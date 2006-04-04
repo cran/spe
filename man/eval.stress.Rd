@@ -48,5 +48,5 @@ a similarity value) between the two observations in the input data
 Returns the value of the Sammon stress as a single number
 }
 \seealso{\link{spe}}
-\reference{Stochastic Proximity Embedding, \emph{J. Comput. Chem.}, 2003, \bold{24}, 1215-1221}
+\references{Stochastic Proximity Embedding, \emph{J. Comput. Chem.}, 2003, \bold{24}, 1215-1221}
 \keyword{nonparametric}
